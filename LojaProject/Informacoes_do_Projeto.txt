@@ -1,0 +1,6 @@
+Para o trabalho de ALPOO + LPBD usamos o aprendizado adquirdos em sala de aula com conhecimentos pessoais de programação e logica para finalizar o trabalho. Utilizando Scanner no Java assim inserindo os dados direto no banco. Ja fizemos os INSERTS obrigadorios no banco, porém se desejar adicionar novos dados é só estar executando novamente o projeto no Java. 
+O desenvolvimento do projeto sendo feito em duplas permitiu explorar ao máximo de nossos conhecimentos, fazendo com que aumentasse a efetividade para o resultado final com a troca de conhecimentos dos dois desenvolvedores.
+
+
+Marcos Vinicius Bernardo do Nascimento RA: N3960H-2 Turmar: CC4P48
+Caio Alves Jacinto  RA: F097CG-0 Turma: CC3P48
